@@ -1,3 +1,9 @@
 .ipynb_checkpoints/
 best_weights.h5
 GoogleNews/
+Kaggle/data/
+Kaggle/df_val.pkl
+Kaggle/df_test.pkl
+Kaggle/df_train.pkl
+Kaggle/prediction.csv
+Kaggle/tfidf_vecterizer

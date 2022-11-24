@@ -7,3 +7,8 @@ Kaggle/df_test.pkl
 Kaggle/df_train.pkl
 Kaggle/prediction.csv
 Kaggle/tfidf_vecterizer
+Kaggle/ds_encoded.hf/
+Kaggle/model/
+Kaggle/results/
+Kaggle/ds_demojize.hf/
+Kaggle/df_emoji_count.pkl
